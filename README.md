@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ogi-joo
 - 👀 I’m interested in Full Stack Web Development, Arduino, Raspberry, Linux, Android & IOS Apps, React & React_Native, node & Express 
 - 🌱 I’m currently working with ERN Stack, with any database
-- 👀 I’m looking
-- 📫 How to reach me jovanovicogi0@gmail.com
+- 📫 jovanovicogi0@gmail.com
