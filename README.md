@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @ogi-joo
-- 👀 I’m interested in Full Stack Web Development, Arduino, Linux, Android & IOS Apps, Next/React & React_Native, node & Express 
-- 📫 jovanovicogi0@gmail.com
+- 👋 Hi, I’m Ogi
+- 👀 I'm developing with NextJS, Expo React Native, PayloadCMS and more.
+- 📫 Contact: ognjen@pupin.dev
+- www.pupin.dev
