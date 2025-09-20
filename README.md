@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Ogi
 - 👀 I'm developing with NextJS, Expo React Native, PayloadCMS and more.
-- 📫 Contact: ognjen@pupin.dev
-- www.pupin.dev
+- 📫 Contact: jovanovicogi0@gmail.com
